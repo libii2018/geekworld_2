@@ -161,3 +161,36 @@
     padding: 2rem;
 }
 
+#main .infos {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin: 0;
+}
+
+#main .auteur {
+    width: 80%;
+    border-right: 0;
+    text-align: center;
+    padding-right: 0;
+}
+
+#main .vue {
+    width: 100%;
+    text-align: center;
+    padding: 1rem 0;
+    border-right: 0;
+}
+
+#main .date {
+    width: 100%;
+    text-align: center;
+    padding: 1rem 0;
+    border-right: 0;
+}
+
+#main .categorie {
+    width: 100%;
+    text-align: center;
+    padding: 1rem 0;
+}

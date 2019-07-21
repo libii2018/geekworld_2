@@ -26,3 +26,30 @@
 /*End Section Hamburger Menu */
 /******************************************************************/
 /******************************************************************/
+
+#main {
+    font-size: 0.8rem !important;
+    margin: 2rem 0;
+}
+
+#main .auteur {
+    padding-left: 5%;
+}
+
+#text {
+    padding: 6rem 4rem;
+    line-height: 2.5rem;
+}
+
+#chapitres {
+    padding: 0 1rem;
+}
+
+#chapitres .boxe {
+    margin-bottom: 2rem;
+}
+
+#main .auteur {
+    padding-left: 19%;
+    margin-left: 0; 
+}
